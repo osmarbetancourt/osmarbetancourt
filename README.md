@@ -51,9 +51,10 @@ CI/CD, Jira, GitHub Copilot, Custom MCPs
 | [custom-mcp](https://github.com/osmarbetancourt/custom-mcp)             | Extensible MCP server for AI agents & API orchestration. Auto-generates tools from OpenAPI specs, integrates with Render for cloud control, and is Copilot-compatible. | Python, FastAPI, Hugging Face MCP |
 | [codegen-rag](https://github.com/osmarbetancourt/codegen-rag)           | Enterprise RAG pipeline with Pinecone for sub-second knowledge retrieval and contextual Q&A. | Python, Pinecone, Hugging Face |
 | [osmar-generative-ai](https://github.com/osmarbetancourt/osmar-generative-ai) | Custom-tuned generative models, LoRA/PEFT experiments, Q&A agents. | Python, Hugging Face |
-| [ecommerce-ai-agent](https://github.com/osmarbetancourt/ecommerce-ai-agent)   | AI-powered grocery platform with chatbots, analytics, and agent-driven recommendations. | Django, Next.js |
+| [ecommerce-ai-agent](https://github.com/osmarbetancourt/ecommerce-ai-agent)   | AI-powered grocery platform with chatbots, analytics, and agent-driven recommendations. | TypeScript, Hugging Face, Next.js |
 | [central-ai](https://github.com/osmarbetancourt/central-ai)             | LLM stack knowledge base: architecture, best practices, governance, onboarding. | Markdown, Diagrams |
-| [betancourt-osmar-portfolio](https://github.com/osmarbetancourt/betancourt-osmar-portfolio) | Personal website & portfolio with interactive LLM demos. | Next.js, JavaScript |
+| [betancourt-osmar-portfolio](https://github.com/osmarbetancourt/betancourt-osmar-portfolio) | Personal website & portfolio with interactive LLM demos. | Django, Docker, Render, Python, React |
+| [project-mika-ai](https://github.com/osmarbetancourt/project-mika-ai) | Real-time AI-powered platform with Unity client, Python WebSocket backend, and Google Vertex AI integration. | Python (websockets), C#, Unity, Google Vertex AI API |
 
 ---
 
