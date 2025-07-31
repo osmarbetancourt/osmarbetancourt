@@ -61,7 +61,7 @@ CI/CD, Jira, GitHub Copilot, Custom MCPs
 ## 💼 Experience & Certifications
 
 **Current:**  
-Tech Leader & Senior Jira Analyst @ S4E - Solutions For Everyone (2024–Present)  
+Tech Leader & Senior Jira Analyst @ S4E - Solutions For Everyone (2024–2025)  
 **Past:**  
 Jira Analyst & AWS Practitioner @ S4E (2021–2024)
 
