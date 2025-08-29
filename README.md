@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Osmar Betancourt
+# I'm Osmar Betancourt
 
 **Tech Leader & End-to-End AI Platform Engineer (Full Stack · Cloud · DevSecOps · Security · MCPs - Agents)**
 
@@ -28,10 +28,11 @@ LLMs (OpenAI GPT, Gemini, Claude, Custom Models), RAG Systems, Q&A Agents, LoRA/
 ETL Pipelines, Data Warehousing, NoSQL (MongoDB, Snowflake), Microservices Architecture, API Gateway Design, Real-time Data Processing
 
 **Frontend:**  
-![React](https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white)  
+Designing modern websites with a friendly UI and UX with cutting edge technology.
 
 **DevOps & Cloud:**  
-![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/gcp-4285F4?logo=googlecloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-623CE4?logo=terraform&logoColor=white) ![Render](https://img.shields.io/badge/render-46E3B7?logo=render&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/gcp-4285F4?logo=googlecloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-623CE4?logo=terraform&logoColor=white) ![Render](https://img.shields.io/badge/render-46E3B7?logo=render&logoColor=white) ![Hetzner](https://img.shields.io/badge/hetzner-DC0427?logo=hetzner&logoColor=white)  
 CI/CD Pipelines, Infrastructure as Code, Monitoring & Observability, Jira, GitHub Actions, Custom MCPs
 
 ---
@@ -66,7 +67,7 @@ CI/CD Pipelines, Infrastructure as Code, Monitoring & Observability, Jira, GitHu
 **Cloud Architecture Design:**
 ![Cloud Architecture](./images_readme/diagram-export-27-8-2025-9_00_31-p.m..png)
 
-*Current project architecture showcasing cloud infrastructure design with scalable deployments across AWS and GCP, emphasizing high availability, fault tolerance, and optimal resource distribution.*
+*Current project architecture showcasing cloud infrastructure design with scalable deployments across AWS, Render and Hetzner, emphasizing high availability, fault tolerance, and optimal resource distribution.*
 
 ---
 
@@ -79,7 +80,6 @@ CI/CD Pipelines, Infrastructure as Code, Monitoring & Observability, Jira, GitHu
 **Past:**  
 - **IT Technical Leader & Senior Jira Analyst** @ Solutions for Everyone S4E (2024–2025)
 - **Jira Analyst & AWS Cloud Practitioner** @ Solutions for Everyone S4E (2021–2024)
-- **AI Engineer & MCP Developer** (2024–Present) - Specialized in AI agent frameworks and API orchestration
 
 **Certifications & Expertise:**  
 - **Hugging Face Certified** (LLMs, MCP, Agents)
@@ -100,19 +100,6 @@ CI/CD Pipelines, Infrastructure as Code, Monitoring & Observability, Jira, GitHu
 - 🌐 [Portfolio & Blog](https://www.betancourtosmar.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/osmarbetancourt/)
 - ✉️ [Email](mailto:oaba.dev@gmail.com)
-
----
-
-## 📊 GitHub Activity & Achievements
-
-**Recent Activity (last 12 months):**
-- **150+ contributions** (including private repos) with focus on AI/ML projects and infrastructure automation
-- **94% commits**, **3% pull requests**, **2% code reviews**, **1% issues** across 12+ repositories
-- **Recent surge in activity** (June–July 2025) driven by cloud architecture development and MCP framework creation
-- **Key Focus Areas:** Custom MCP development, cloud infrastructure, AI agent frameworks, enterprise integrations
-- Earned GitHub badges: *Pair Extraordinaire* (collaborative PRs), *Pull Shark* (prolific PRs merged)
-
-> **Note:** Private repo contributions are included in totals but not visible in public widgets.
 
 ---
 
