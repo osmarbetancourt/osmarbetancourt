@@ -2,36 +2,36 @@
 
 ## Repository Context
 
-This is a **personal profile repository** showcasing Osmar Betancourt's expertise as a **Tech Leader & AI/Cloud Solutions Architect**. The repository serves as a professional portfolio highlighting multicloud architecture, AI agent development, and enterprise-grade solutions.
+This is a **personal profile repository** showcasing Osmar Betancourt's expertise as a **Tech Leader & End-to-End AI Platform Engineer**. The repository serves as a professional portfolio highlighting cloud architecture, AI agent development, and enterprise-grade solutions.
 
 ## Owner Profile
 
-**Role**: Tech Leader & AI/Cloud Solutions Architect  
-**Specialization**: Multicloud infrastructure design, AI agent development, MCP framework creation, and enterprise AI solutions  
+**Role**: Tech Leader & End-to-End AI Platform Engineer  
+**Specialization**: Cloud infrastructure design, AI agent development, MCP framework creation, and enterprise AI solutions  
 **Current Focus**: AI Engineer & MCP Developer with emphasis on GitHub Copilot enterprise integration
 
 ## Repository Purpose
 
 - **Primary**: Professional portfolio and skills showcase
-- **Secondary**: Demonstrate architectural expertise through multicloud diagrams and project descriptions
+- **Secondary**: Demonstrate architectural expertise through cloud diagrams and project descriptions
 - **Tertiary**: Reference for enterprise AI solutions and MCP framework development
 
 ## Content Guidelines
 
 ### README.md Maintenance
 - **Professional Tone**: Maintain executive-level, technical leadership voice
-- **Current Role Focus**: Emphasize Tech Leader & AI/Cloud Solutions Architect position
+- **Current Role Focus**: Emphasize Tech Leader & End-to-End AI Platform Engineer position
 - **Enterprise-Grade Language**: Use terms like "production-ready", "enterprise-grade", "scalable deployments"
-- **Multicloud Emphasis**: Highlight AWS, GCP, Azure expertise and Infrastructure as Code
+- **Cloud Emphasis**: Highlight AWS, GCP expertise and Infrastructure as Code
 - **AI/ML Leadership**: Focus on advanced AI agent development, custom MCP frameworks, and multi-model orchestration
 
 ### Technical Accuracy
-- **Certifications**: Keep GitHub Copilot Advanced, Hugging Face, and Multicloud Architecture certifications current
+- **Certifications**: Keep GitHub Copilot Advanced, Hugging Face, and Cloud Architecture certifications current
 - **Skills Updates**: Prioritize emerging AI/ML technologies, cloud-native tools, and DevOps automation
 - **Project Descriptions**: Emphasize architectural complexity, scalability, and enterprise impact
 
 ### Architecture Documentation
-- **Visual Elements**: Maintain and update multicloud architecture diagrams
+- **Visual Elements**: Maintain and update cloud architecture diagrams
 - **Technical Depth**: Include Infrastructure as Code, monitoring, observability details
 - **Enterprise Context**: Frame solutions in terms of business value and technical leadership
 
@@ -89,7 +89,7 @@ This is a **personal profile repository** showcasing Osmar Betancourt's expertis
 
 ## Special Considerations
 
-- **Multicloud Expertise**: Always emphasize cross-cloud platform capabilities
+- **Cloud Expertise**: Always emphasize AWS and GCP platform capabilities
 - **AI Leadership**: Position as AI strategy and implementation leader
 - **MCP Development**: Highlight custom framework development and GitHub Copilot expertise
 - **Enterprise Delivery**: Focus on production-ready, scalable solutions
