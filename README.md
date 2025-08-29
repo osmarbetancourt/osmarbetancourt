@@ -121,7 +121,7 @@ CI/CD Pipelines, Infrastructure as Code, Monitoring & Observability, Jira, GitHu
 ![Osmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmarbetancourt&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmarbetancourt&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=osmarbetancourt&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=osmarbetancourt&theme=radical)
+![Trophy](https://trophygh.kolioaris.xyz/?username=osmarbetancourt&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=osmarbetancourt&theme=radical)
 
 ---
