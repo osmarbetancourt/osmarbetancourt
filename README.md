@@ -84,7 +84,6 @@ CI/CD Pipelines, Infrastructure as Code, Monitoring & Observability, Jira, GitHu
 **Certifications & Expertise:**  
 - **Hugging Face Certified** (LLMs, MCP, Agents)
 - **Datacamp Associate AI Engineer for Developers, Data Engineer, Professional Data Engineer** (Python, Developing LLMs)
-- **AWS Cloud Practitioner** (Cloud Architecture, Infrastructure)
 - **GitHub Copilot Advanced** (MCP integration, Custom tools)
 - **Atlassian Certified** (Managing Jira Projects for Data Center & Cloud)
 - **50+ IT/AI/Cloud Certifications** (Current stack: AI, MLOps, DevOps, Cloud)
